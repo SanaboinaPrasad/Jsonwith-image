@@ -1,0 +1,236 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CacheSerializer"
+- "DefaultCacheSerializer"
+provides-nominal:
+- "10swiftyjson15CacheSerializerP"
+- "10swiftyjson22DefaultCacheSerializerV"
+provides-member:
+- ["10swiftyjson15CacheSerializerP", ""]
+- ["10swiftyjson22DefaultCacheSerializerV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "??"
+- "AssignmentPrecedence"
+- "CacheSerializer"
+- "Data"
+- "DefaultCacheSerializer"
+- !private "FloatLiteralType"
+- "Image"
+- !private "Kingfisher"
+- !private "KingfisherEmptyOptionsInfo"
+- "KingfisherOptionsInfo"
+depends-member:
+- !private ["Sa", "onlyLoadFirstFrame"]
+- !private ["Sa", "preloadAllAnimationData"]
+- !private ["Sa", "scaleFactor"]
+- !private ["s13ArrayProtocolP", "onlyLoadFirstFrame"]
+- !private ["s13ArrayProtocolP", "preloadAllAnimationData"]
+- !private ["s13ArrayProtocolP", "scaleFactor"]
+- !private ["SK", "kf"]
+- !private ["SK", "onlyLoadFirstFrame"]
+- !private ["SK", "preloadAllAnimationData"]
+- !private ["SK", "scaleFactor"]
+- !private ["s7CVarArgP", "kf"]
+- !private ["s7CVarArgP", "onlyLoadFirstFrame"]
+- !private ["s7CVarArgP", "preloadAllAnimationData"]
+- !private ["s7CVarArgP", "scaleFactor"]
+- ["10swiftyjson15CacheSerializerP", "Data"]
+- ["10swiftyjson15CacheSerializerP", "DefaultCacheSerializer"]
+- ["10swiftyjson15CacheSerializerP", "Image"]
+- !private ["10swiftyjson15CacheSerializerP", "Kingfisher"]
+- !private ["10swiftyjson15CacheSerializerP", "KingfisherEmptyOptionsInfo"]
+- ["10swiftyjson15CacheSerializerP", "KingfisherOptionsInfo"]
+- ["10swiftyjson15CacheSerializerP", ""]
+- ["10swiftyjson15CacheSerializerP", "data"]
+- ["10swiftyjson15CacheSerializerP", "image"]
+- ["10swiftyjson15CacheSerializerP", "init"]
+- !private ["Sl", "kf"]
+- !private ["Sl", "onlyLoadFirstFrame"]
+- !private ["Sl", "preloadAllAnimationData"]
+- !private ["Sl", "scaleFactor"]
+- !private ["s28CustomDebugStringConvertibleP", "kf"]
+- !private ["s28CustomDebugStringConvertibleP", "onlyLoadFirstFrame"]
+- !private ["s28CustomDebugStringConvertibleP", "preloadAllAnimationData"]
+- !private ["s28CustomDebugStringConvertibleP", "scaleFactor"]
+- !private ["s28CustomDebugStringConvertibleP", "unknown"]
+- !private ["s17CustomReflectableP", "kf"]
+- !private ["s17CustomReflectableP", "onlyLoadFirstFrame"]
+- !private ["s17CustomReflectableP", "preloadAllAnimationData"]
+- !private ["s17CustomReflectableP", "scaleFactor"]
+- !private ["s17CustomReflectableP", "unknown"]
+- !private ["s23CustomStringConvertibleP", "kf"]
+- !private ["s23CustomStringConvertibleP", "onlyLoadFirstFrame"]
+- !private ["s23CustomStringConvertibleP", "preloadAllAnimationData"]
+- !private ["s23CustomStringConvertibleP", "scaleFactor"]
+- !private ["10Foundation4DataV", "deinit"]
+- !private ["10Foundation4DataV", "kf"]
+- !private ["10swiftyjson9DataProxyV", "imageFormat"]
+- !private ["Se", "kf"]
+- !private ["Se", "onlyLoadFirstFrame"]
+- !private ["Se", "preloadAllAnimationData"]
+- !private ["Se", "scaleFactor"]
+- !private ["Se", "unknown"]
+- ["10swiftyjson22DefaultCacheSerializerV", "Data"]
+- ["10swiftyjson22DefaultCacheSerializerV", "DefaultCacheSerializer"]
+- ["10swiftyjson22DefaultCacheSerializerV", "Image"]
+- !private ["10swiftyjson22DefaultCacheSerializerV", "Kingfisher"]
+- !private ["10swiftyjson22DefaultCacheSerializerV", "KingfisherEmptyOptionsInfo"]
+- ["10swiftyjson22DefaultCacheSerializerV", "KingfisherOptionsInfo"]
+- ["10swiftyjson22DefaultCacheSerializerV", "data"]
+- ["10swiftyjson22DefaultCacheSerializerV", "default"]
+- ["10swiftyjson22DefaultCacheSerializerV", "deinit"]
+- ["10swiftyjson22DefaultCacheSerializerV", "image"]
+- ["10swiftyjson22DefaultCacheSerializerV", "init"]
+- !private ["SE", "kf"]
+- !private ["SE", "onlyLoadFirstFrame"]
+- !private ["SE", "preloadAllAnimationData"]
+- !private ["SE", "scaleFactor"]
+- !private ["SE", "unknown"]
+- ["SQ", "GIF"]
+- ["SQ", "JPEG"]
+- ["SQ", "PNG"]
+- !private ["SQ", "kf"]
+- !private ["SQ", "onlyLoadFirstFrame"]
+- !private ["SQ", "preloadAllAnimationData"]
+- !private ["SQ", "scaleFactor"]
+- ["SQ", "unknown"]
+- !private ["s25ExpressibleByArrayLiteralP", "onlyLoadFirstFrame"]
+- !private ["s25ExpressibleByArrayLiteralP", "preloadAllAnimationData"]
+- !private ["s25ExpressibleByArrayLiteralP", "scaleFactor"]
+- !private ["s23ExpressibleByNilLiteralP", "unknown"]
+- ["SH", "GIF"]
+- ["SH", "JPEG"]
+- ["SH", "PNG"]
+- !private ["SH", "kf"]
+- !private ["SH", "onlyLoadFirstFrame"]
+- !private ["SH", "preloadAllAnimationData"]
+- !private ["SH", "scaleFactor"]
+- ["SH", "unknown"]
+- ["10swiftyjson11ImageFormatO", "GIF"]
+- ["10swiftyjson11ImageFormatO", "JPEG"]
+- ["10swiftyjson11ImageFormatO", "PNG"]
+- ["10swiftyjson11ImageFormatO", "unknown"]
+- !private ["10swiftyjson10KingfisherC", "gifRepresentation"]
+- !private ["10swiftyjson10KingfisherC", "image"]
+- !private ["10swiftyjson10KingfisherC", "imageFormat"]
+- !private ["10swiftyjson10KingfisherC", "jpegRepresentation"]
+- !private ["10swiftyjson10KingfisherC", "normalized"]
+- !private ["10swiftyjson10KingfisherC", "pngRepresentation"]
+- !private ["10swiftyjson20KingfisherCompatibleP", "kf"]
+- !private ["SM", "kf"]
+- !private ["SM", "onlyLoadFirstFrame"]
+- !private ["SM", "preloadAllAnimationData"]
+- !private ["SM", "scaleFactor"]
+- !private ["So8NSCodingP", "kf"]
+- !private ["So21NSItemProviderReadingP", "kf"]
+- !private ["So21NSItemProviderWritingP", "kf"]
+- !private ["So8NSObjectC", "kf"]
+- !private ["So8NSObjectP", "kf"]
+- !private ["So14NSSecureCodingP", "kf"]
+- !private ["Sq", "unknown"]
+- !private ["10swiftyjson11PlaceholderP", "kf"]
+- !private ["Sk", "kf"]
+- !private ["Sk", "onlyLoadFirstFrame"]
+- !private ["Sk", "preloadAllAnimationData"]
+- !private ["Sk", "scaleFactor"]
+- !private ["Sm", "kf"]
+- !private ["Sm", "onlyLoadFirstFrame"]
+- !private ["Sm", "preloadAllAnimationData"]
+- !private ["Sm", "scaleFactor"]
+- !private ["10Foundation20ReferenceConvertibleP", "kf"]
+- !private ["ST", "kf"]
+- !private ["ST", "onlyLoadFirstFrame"]
+- !private ["ST", "preloadAllAnimationData"]
+- !private ["ST", "scaleFactor"]
+- !private ["So29UIAccessibilityIdentificationP", "kf"]
+- !private ["So7UIImageC", "deinit"]
+- !private ["So7UIImageC", "kf"]
+- !private ["So39UIItemProviderPresentationSizeProvidingP", "kf"]
+- !private ["s24_DestructorSafeContainerP", "onlyLoadFirstFrame"]
+- !private ["s24_DestructorSafeContainerP", "preloadAllAnimationData"]
+- !private ["s24_DestructorSafeContainerP", "scaleFactor"]
+- !private ["s26_ExpressibleByImageLiteralP", "kf"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "onlyLoadFirstFrame"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "preloadAllAnimationData"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "scaleFactor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "kf"]
+- !private ["s21_ObjectiveCBridgeableP", "kf"]
+- !private ["s21_ObjectiveCBridgeableP", "onlyLoadFirstFrame"]
+- !private ["s21_ObjectiveCBridgeableP", "preloadAllAnimationData"]
+- !private ["s21_ObjectiveCBridgeableP", "scaleFactor"]
+- !private ["s21_ObjectiveCBridgeableP", "unknown"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "s7CVarArgP"
+- "10swiftyjson15CacheSerializerP"
+- !private "Sl"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation4DataV"
+- !private "10swiftyjson9DataProxyV"
+- !private "Se"
+- "10swiftyjson22DefaultCacheSerializerV"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "10swiftyjson11ImageFormatO"
+- !private "10swiftyjson10KingfisherC"
+- !private "10swiftyjson20KingfisherCompatibleP"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "10swiftyjson11PlaceholderP"
+- !private "Sk"
+- !private "Sm"
+- !private "10Foundation20ReferenceConvertibleP"
+- !private "ST"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So7UIImageC"
+- !private "So39UIItemProviderPresentationSizeProvidingP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s26_ExpressibleByImageLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Accelerate.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/os.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Accelerate.framework/Headers/Accelerate.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.0.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "17284976f2663d5c145c06a7e36da1a7"
